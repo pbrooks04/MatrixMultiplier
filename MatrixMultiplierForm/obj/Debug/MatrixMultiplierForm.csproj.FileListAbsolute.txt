@@ -1,0 +1,64 @@
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\MatrixMultiplierForm.exe.config
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\MatrixMultiplierForm.exe
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\MatrixMultiplierForm.pdb
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.csprojAssemblyReference.cache
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.MainForm.resources
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.Properties.Resources.resources
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.csproj.GenerateResource.cache
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.csproj.CoreCompileInputs.cache
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.exe
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.pdb
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.AppContext.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Console.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.Compression.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.FileSystem.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.Packaging.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Net.Http.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Net.Sockets.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp_6300\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.csproj.CopyComplete
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\MatrixMultiplierForm.exe.config
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\MatrixMultiplierForm.exe
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\MatrixMultiplierForm.pdb
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.AppContext.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Console.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.Compression.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.IO.Packaging.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Net.Http.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Net.Sockets.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.csprojAssemblyReference.cache
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.MainForm.resources
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.Properties.Resources.resources
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.csproj.GenerateResource.cache
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.csproj.CoreCompileInputs.cache
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.csproj.CopyComplete
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.exe
+C:\Users\Peter Brooks\source\repos\MatrixMultiplierForm\MatrixMultiplierForm\obj\Debug\MatrixMultiplierForm.pdb
